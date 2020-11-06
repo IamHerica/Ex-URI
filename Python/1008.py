@@ -1,0 +1,6 @@
+idFuncionario = int(input())
+hsTrabalhadas = int(input())
+salarioHora = float(input())
+calculoSalario = (hsTrabalhadas * salarioHora)
+print("NUMBER = %d"% idFuncionario)
+print("SALARY = U$ %.2lf"% calculoSalario)
