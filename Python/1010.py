@@ -30,8 +30,3 @@ if segundosTotais2+60>=segundosTotais1:
     print(int(horas), "hora(s)")
     print(int(minutos), "minuto(s)")
     print(int(segundos), "segundo(s)")
-
-'''
-
-
-'''
